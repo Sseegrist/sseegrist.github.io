@@ -1,6 +1,8 @@
 
 # Spencer Seegrist's Portfolio
 
+Github page: https://github.com/Sseegrist.
+
 I am a CS major at CSUF graduating in Spring of 2029.
 
 ## Favorite CPSC 120L Labs
